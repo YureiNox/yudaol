@@ -12,9 +12,7 @@ adbtool est un outil qui facilite l'utilisation de la commande `adb` (Android De
 
 Voici une barre qui indique en pourcentage les langages que j'utilise le plus :
 
-Python : 80% ![Python](https://progress-bar.dev/80?title=Python&width=200&color=orange)
-HTML : 15% ![HTML](https://progress-bar.dev/15?title=HTML&width=200&color=blue)
-Autres : 5% ![Autres](https://progress-bar.dev/5?title=Autres&width=200&color=grey)
+![Langages](https://progress-bar.dev/80?title=Python&width=200&color=orange,15?title=HTML&width=200&color=blue,5?title=Autres&width=200&color=grey)
 
 ## Réseaux sociaux
 
