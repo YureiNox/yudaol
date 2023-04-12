@@ -14,8 +14,6 @@ Voici une barre qui regroupe tous les langages de programmation avec les noms de
 
 [![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Whiterabbit-git&theme=dark&hide_border=true&layout=compact&exclude_repo=Whiterabbit-git.github.io&langs_count=3&custom_title=Langages+les+plus+utilis%C3%A9s&hide=java,c%23,makefile,c%2B%2B)](https://github.com/Whiterabbit-git)
 
-
-
 ## Réseaux sociaux
 
 * [Instagram](https://www.instagram.com/whiterabbit-git/)
