@@ -10,9 +10,13 @@ adbtool est un outil qui facilite l'utilisation de la commande `adb` (Android De
 
 ### Langages de programmation les plus utilisés
 
-![Python](https://progress-bar.dev/70/?scale=100&title=&width=100&color=3776AB&suffix=%20Python) ![Batch](https://progress-bar.dev/20/?scale=100&title=&width=100&color=4E2A8E&suffix=%20Batch) ![Web](https://progress-bar.dev/10/?scale=100&title=&width=100&color=269539&suffix=%20Web%20(HTML,%20CSS,%20JS))
+![Python](https://progress-bar.dev/70/?scale=100&title=&width=500&color=3776AB&suffix=%20Python) ![Batch](https://progress-bar.dev/20/?scale=100&title=&width=500&color=4E2A8E&suffix=%20Batch) ![Web](https://progress-bar.dev/10/?scale=100&title=&width=500&color=269539&suffix=%20Web%20(HTML,%20CSS,%20JS)) 
 
-
+| Langage     | Couleur     |
+| :--------- | :---------- |
+| Python     | ![#3776AB](https://via.placeholder.com/15/3776AB/000000?text=+) `#3776AB` |
+| Batch      | ![#4E2A8E](https://via.placeholder.com/15/4E2A8E/000000?text=+) `#4E2A8E` |
+| Web (HTML, CSS, JS) | ![#269539](https://via.placeholder.com/15/269539/000000?text=+) `#269539` |
 
 ## Réseaux sociaux
 
