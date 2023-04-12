@@ -12,11 +12,7 @@ adbtool est un outil qui facilite l'utilisation de la commande `adb` (Android De
 
 Voici une barre qui regroupe tous les langages de programmation avec les noms des langages et des carrés de couleur en dessous :
 
-![Langages de programmation](https://progress-bar.dev/?title=Python&width=600&color=orange&progress=80) ![Langages de programmation](https://progress-bar.dev/?title=HTML&width=600&color=blue&progress=15) ![Langages de programmation](https://progress-bar.dev/?title=Autres&width=600&color=grey&progress=5)
-
-| Python | HTML | Autres |
-|--------|------|--------|
-|![Python](https://via.placeholder.com/15/orange/000000?text=+) | ![HTML](https://via.placeholder.com/15/blue/000000?text=+) | ![Autres](https://via.placeholder.com/15/grey/000000?text=+) |
+![Langages de programmation](https://github-readme-stats.vercel.app/api/top-langs?username=Whiterabbit-git&langs_count=3&show_icons=true&locale=fr&layout=compact&theme=dark)
 
 ## Réseaux sociaux
 
