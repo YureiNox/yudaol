@@ -10,22 +10,12 @@ adbtool est un outil qui facilite l'utilisation de la commande `adb` (Android De
 
 ### Langages de programmation les plus utilisés
 
-<div>
-    <span style="display:inline-block;width:80px;text-align:left">Python</span>
-    <div style="display:inline-block;width:250px">
-        <img src="https://progress-bar.dev/70/?title=%20" alt="Python" />
-    </div>
-    <span style="display:inline-block;width:50px;text-align:left"></span>
-    <span style="display:inline-block;width:80px;text-align:left">Batch</span>
-    <div style="display:inline-block;width:250px">
-        <img src="https://progress-bar.dev/20/?title=%20" alt="Batch" />
-    </div>
-    <span style="display:inline-block;width:50px;text-align:left"></span>
-    <span style="display:inline-block;width:150px;text-align:left">Web (HTML/CSS/JS)</span>
-    <div style="display:inline-block;width:250px">
-        <img src="https://progress-bar.dev/10/?title=%20" alt="Web" />
-    </div>
-</div>
+![Python](https://progress-bar.dev/70/?title=Python&color=3776AB&width=200&style=flat-square) ![Batch](https://progress-bar.dev/20/?title=Batch&color=4E8F37&width=200&style=flat-square) ![Web (HTML/CSS/JS)](https://progress-bar.dev/10/?title=Web%20(HTML/CSS/JS)&color=F16529&width=200&style=flat-square)
+
+| Python | Batch | Web (HTML/CSS/JS) |
+|--------|-------|------------------|
+| 70%    | 20%   | 10%              |
+
 
 
 ## Réseaux sociaux
