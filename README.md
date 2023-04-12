@@ -8,11 +8,11 @@ Je suis un étudiant passionné de développement de logiciels et de l'utilisati
 
 adbtool est un outil qui facilite l'utilisation de la commande `adb` (Android Debug Bridge) pour les développeurs Android. Avec adbtool, vous pouvez facilement exécuter des commandes adb courantes telles que l'installation d'applications, la capture d'écran, l'enregistrement d'écran, etc.
 
-## Langages
+### Langages de programmation les plus utilisés
 
-Voici une barre qui regroupe tous les langages de programmation avec les noms des langages et des carrés de couleur en dessous :
+![Python](https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=Python&logoColor=white) ![Batch](https://img.shields.io/badge/-Batch-4E2A8E?style=flat-square&logo=Windows&logoColor=white) ![Web](https://img.shields.io/badge/-Web-269539?style=flat-square&logo=html5&logoColor=white)
 
-[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Whiterabbit-git&theme=dark&hide_border=true&layout=compact&exclude_repo=Whiterabbit-git.github.io&langs_count=3&custom_title=Langages+les+plus+utilis%C3%A9s&hide=java,c%23,makefile,c%2B%2B)](https://github.com/Whiterabbit-git)
+
 
 
 ## Réseaux sociaux
