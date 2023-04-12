@@ -10,20 +10,25 @@ adbtool est un outil qui facilite l'utilisation de la commande `adb` (Android De
 
 ### Langages de programmation les plus utilisés
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=whiterabbit-git&hide=java&langs_count=3&layout=compact&theme=material-palenight&title_color=ffffff&bg_color=2c2f33)
-<br>
-<span>
-    <span style="color:#3776AB">Python</span>
-    <span style="color:#F0DB4F">Batch</span>
-    <span style="color:#B0BEC5">Web (HTML/CSS/JS)</span>
-</span>
+<div>
+    <span style="display:inline-block;width:80px;text-align:left">Python</span>
+    <div style="display:inline-block;width:250px">
+        <img src="https://progress-bar.dev/70/?title=%20" alt="Python" />
+    </div>
+</div>
+<div>
+    <span style="display:inline-block;width:80px;text-align:left">Batch</span>
+    <div style="display:inline-block;width:250px">
+        <img src="https://progress-bar.dev/20/?title=%20" alt="Batch" />
+    </div>
+</div>
+<div>
+    <span style="display:inline-block;width:80px;text-align:left">Web (HTML/CSS/JS)</span>
+    <div style="display:inline-block;width:250px">
+        <img src="https://progress-bar.dev/10/?title=%20" alt="Web" />
+    </div>
+</div>
 
-
-| Langage     | Couleur     |
-| :--------- | :---------- |
-| Python     | ![#3776AB](https://via.placeholder.com/15/3776AB/000000?text=+) `#3776AB` |
-| Batch      | ![#4E2A8E](https://via.placeholder.com/15/4E2A8E/000000?text=+) `#4E2A8E` |
-| Web (HTML, CSS, JS) | ![#269539](https://via.placeholder.com/15/269539/000000?text=+) `#269539` |
 
 ## Réseaux sociaux
 
