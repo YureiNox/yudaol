@@ -10,9 +10,21 @@ adbtool est un outil qui facilite l'utilisation de la commande `adb` (Android De
 
 ## Langages
 
-Voici une barre qui indique en pourcentage les langages que j'utilise le plus :
+Voici une grande barre qui regroupe les langages de programmation que j'utilise le plus :
 
-![Langages](https://progress-bar.dev/80?title=Python&width=200&color=orange,15?title=HTML&width=200&color=blue,5?title=Autres&width=200&color=grey)
+![Langages](https://progress-bar.dev/?title=&width=600&color=black,orange,blue,grey,red,purple,yellow,green)
+| Python | Web | C++ | Java | Bash | SQL | C# | Autres |
+|--------|-----|-----|------|------|-----|----|--------|
+| ![Python](https://progress-bar.dev/80?title=&width=80&color=orange) | ![Web](https://progress-bar.dev/60?title=&width=80&color=blue) | ![C++](https://progress-bar.dev/10?title=&width=80&color=grey) | ![Java](https://progress-bar.dev/5?title=&width=80&color=red) | ![Bash](https://progress-bar.dev/2?title=&width=80&color=purple) | ![SQL](https://progress-bar.dev/2?title=&width=80&color=yellow) | ![C#](https://progress-bar.dev/1?title=&width=80&color=green) | ![Autres](https://progress-bar.dev/0?title=&width=80&color=black) |
+
+Légende des couleurs :
+* Orange : Python
+* Bleu : Web (HTML, CSS, JavaScript)
+* Gris : C++
+* Rouge : Java
+* Violet : Bash
+* Jaune : SQL
+* Vert : C#
 
 ## Réseaux sociaux
 
