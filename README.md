@@ -15,15 +15,13 @@ adbtool est un outil qui facilite l'utilisation de la commande `adb` (Android De
     <div style="display:inline-block;width:250px">
         <img src="https://progress-bar.dev/70/?title=%20" alt="Python" />
     </div>
-</div>
-<div>
+    <span style="display:inline-block;width:50px;text-align:left"></span>
     <span style="display:inline-block;width:80px;text-align:left">Batch</span>
     <div style="display:inline-block;width:250px">
         <img src="https://progress-bar.dev/20/?title=%20" alt="Batch" />
     </div>
-</div>
-<div>
-    <span style="display:inline-block;width:80px;text-align:left">Web (HTML/CSS/JS)</span>
+    <span style="display:inline-block;width:50px;text-align:left"></span>
+    <span style="display:inline-block;width:150px;text-align:left">Web (HTML/CSS/JS)</span>
     <div style="display:inline-block;width:250px">
         <img src="https://progress-bar.dev/10/?title=%20" alt="Web" />
     </div>
