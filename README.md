@@ -1,16 +1,25 @@
-### Hi there 👋
+# Whiterabbit-git
 
-<!--
-**whiterabbit-git/whiterabbit-git** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Étudiant - Suisse
 
-Here are some ideas to get you started:
+Je suis un étudiant passionné de développement de logiciels et de l'utilisation de la technologie pour résoudre des problèmes. J'aime particulièrement travailler sur des projets open-source et contribuer à la communauté de développeurs.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## adbtool
+
+adbtool est un outil qui facilite l'utilisation de la commande `adb` (Android Debug Bridge) pour les développeurs Android. Avec adbtool, vous pouvez facilement exécuter des commandes adb courantes telles que l'installation d'applications, la capture d'écran, l'enregistrement d'écran, etc.
+
+## Langages
+
+Voici une barre qui indique en pourcentage les langages que j'utilise le plus :
+
+Python : 80% ![Python](https://progress-bar.dev/80?title=Python&width=200&color=orange)
+HTML : 15% ![HTML](https://progress-bar.dev/15?title=HTML&width=200&color=blue)
+Autres : 5% ![Autres](https://progress-bar.dev/5?title=Autres&width=200&color=grey)
+
+## Réseaux sociaux
+
+* [Instagram](https://www.instagram.com/whiterabbit-git/)
+* [YouTube](https://www.youtube.com/channel/UCxjqh1xH-Wn7ZDMzXoWdumw)
+* [Snapchat](https://www.snapchat.com/add/whiterabbit-git)
+
+N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez collaborer sur un projet !
