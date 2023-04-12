@@ -12,7 +12,7 @@ adbtool est un outil qui facilite l'utilisation de la commande `adb` (Android De
 
 Voici une barre qui regroupe tous les langages de programmation avec les noms des langages et des carrés de couleur en dessous :
 
-[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Whiterabbit-git&theme=dark&hide_border=true&layout=compact&exclude_repo=Whiterabbit-git.github.io&langs_count=3&custom_title=Langages+les+plus+utilis%C3%A9s&hide=java)](https://github.com/Whiterabbit-git)
+[![Langages les plus utilisés](https://github-readme-stats.vercel.app/api/top-langs/?username=Whiterabbit-git&theme=dark&hide_border=true&layout=compact&exclude_repo=Whiterabbit-git.github.io&langs_count=3&custom_title=Langages+les+plus+utilis%C3%A9s&hide=java,c%23,makefile,c%2B%2B)](https://github.com/Whiterabbit-git)
 
 
 
