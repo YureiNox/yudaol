@@ -10,7 +10,7 @@ adbtool est un outil qui facilite l'utilisation de la commande `adb` (Android De
 
 ## train-station
 
-train-station est un outil que j'ai creer afin d'afficher les ligne de train depuis la gare demander par l'utilisateur (attention ce fichier ne marche que avec les train CFF)
+train-station est un outil que j'ai creer afin d'afficher les ligne de train depuis la gare demander par l'utilisateur (attention ce fichier ne marche que avec les train CFF pour l'instant)
 
 
 
