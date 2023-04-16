@@ -48,11 +48,11 @@ train-station est un outil que j'ai creer afin d'afficher les ligne de train dep
 	  </a>
 	</p>	
  - **Operating System / OS**:
-	<p>
+	<div style="display: inline-block; border-radius: 5px; background-color: #333; padding: 4px;">
 	  <a href="https://skillicons.dev">	
-		<img height="32"src="https://skillicons.dev/icons?i=linux,raspberrypi&theme=dark" />
+	    <img height="32" src="https://skillicons.dev/icons?i=linux,raspberrypi&theme=dark" />
 	  </a>
-	</p>
+	</div>
 	<!-- Windows 10 -->
 	<div style="display: inline-block; border-radius: 5px; background-color: #333; padding: 4px; margin-left: 8px;">
 	  <a href="https://icons8.com">
