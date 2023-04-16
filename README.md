@@ -47,32 +47,14 @@ train-station est un outil que j'ai creer afin d'afficher les ligne de train dep
 		<img height="32"src="https://skillicons.dev/icons?i=vim,wordpress,discord,git,github,vscode,visualstudio,eclipse,atom&theme=dark" />
 	  </a>
 	</p>	
- - **Operating System / OS**:
-	<div style="display: inline-block; border-radius: 5px; background-color: #333; padding: 4px;">
+ - **Operating System / OS (sans windows/mac utilisé aussi)**:	
+	<p>
 	  <a href="https://skillicons.dev">	
-	    <img height="32" src="https://skillicons.dev/icons?i=linux,raspberrypi&theme=dark" />
+		<img height="32"src="https://skillicons.dev/icons?i=linux,raspberrypi&theme=dark" />
 	  </a>
-	</div>
-	<!-- Windows 10 -->
-	<div style="display: inline-block; border-radius: 5px; background-color: #333; padding: 4px; margin-left: 8px;">
-	  <a href="https://icons8.com">
-	    <img height="32" src="https://img.icons8.com/color/48/000000/windows-10.png" />
-	  </a>
-	</div>
+	</p>
 
-	<!-- Windows 11 -->
-	<div style="display: inline-block; border-radius: 5px; background-color: #333; padding: 4px; margin-left: 8px;">
-	  <a href="https://icons8.com">
-	    <img height="32" src="https://img.icons8.com/color/48/000000/windows-11.png" />
-	  </a>
-	</div>
-
-	<!-- macOS -->
-	<div style="display: inline-block; border-radius: 5px; background-color: #333; padding: 4px; margin-left: 8px;">
-	  <a href="https://icons8.com">
-	    <img height="32" src="https://img.icons8.com/ios-filled/50/000000/mac-os--v1.png" />
-	  </a>
-	</div>
+	
 
  
  
