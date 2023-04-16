@@ -16,11 +16,29 @@ train-station est un outil que j'ai creer afin d'afficher les ligne de train dep
 
 
 
-## Langages
+## Langages les plus utilisé
 
 ![Langages de programmation](https://github-readme-stats.vercel.app/api/top-langs?username=whiterabbit-git&langs_count=3&show_icons=true&locale=fr&layout=compact&theme=dark)
 
 
+
+- **Languages acquis**:
+	<p>
+	  <a href="https://skillicons.dev">	
+		<img height="32"src="https://skillicons.dev/icons?i=html,python,java&theme=light" />
+	  </a>
+	</p>
+
+<br>
+
+
+- **Tools**:
+	<p>
+	  <a href="https://skillicons.dev">	
+		<img height="32"src="https://skillicons.dev/icons?i=vim,git,vscode&theme=light" />
+	  </a>
+	</p>	
+ 
 ## Réseaux sociaux
 
 * [Instagram](https://www.instagram.com/whiterabbit.gitgithub)
