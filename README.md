@@ -10,9 +10,8 @@ adbtool est un outil qui facilite l'utilisation de la commande `adb` (Android De
 
 ## Langages
 
-Voici une barre qui indique en pourcentage les langages que j'utilise le plus :
+![Langages de programmation](https://github-readme-stats.vercel.app/api/top-langs?username=Whiterabbit-git&langs_count=3&show_icons=true&locale=fr&layout=compact&theme=dark)
 
-https://github-readme-stats.vercel.app/api/top-langs?username=whiterabbit-git&langs_count=4&show_icons=true&locale=en&layout=compact&theme=material-palenight
 
 ## Réseaux sociaux
 
