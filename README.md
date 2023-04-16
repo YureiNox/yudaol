@@ -1,4 +1,6 @@
-# Whiterabbit-git
+<!--- Templates : https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates--->
+
+<h1 align="center"><b>Hi There, Welcome to my Github profile!</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 ### Étudiant - Suisse
 
