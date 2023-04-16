@@ -15,8 +15,7 @@ adbtool est un outil qui facilite l'utilisation de la commande `adb` (Android De
 
 ## Réseaux sociaux
 
-* [Instagram](https://www.instagram.com/whiterabbit-git/)
-* [YouTube](https://www.youtube.com/channel/UCxjqh1xH-Wn7ZDMzXoWdumw)
-* [Snapchat](https://www.snapchat.com/add/whiterabbit-git)
+* [Instagram](https://www.instagram.com/whiterabbit.gitgithub)
+* [YouTube a venir](https://www.youtube.com/channel/UCxjqh1xH-Wn7ZDMzXoWdumw)
+* [Twitter](https://twitter.com/whiterabbit904)
 
-N'hésitez pas à me contacter si vous avez des questions ou si vous souhaitez collaborer sur un projet !
