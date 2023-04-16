@@ -16,7 +16,8 @@ train-station est un outil que j'ai creer afin d'afficher les ligne de train dep
 
 
 
-## Langages les plus utilisé
+## Langages
+- **Graphique
 
 ![Langages de programmation](https://github-readme-stats.vercel.app/api/top-langs?username=whiterabbit-git&langs_count=3&show_icons=true&locale=fr&layout=compact&theme=dark)
 
@@ -25,19 +26,34 @@ train-station est un outil que j'ai creer afin d'afficher les ligne de train dep
 - **Languages acquis**:
 	<p>
 	  <a href="https://skillicons.dev">	
-		<img height="32"src="https://skillicons.dev/icons?i=html,python,java&theme=light" />
+		<img height="32"src="https://skillicons.dev/icons?i=html,python,java&theme=dark" />
 	  </a>
 	</p>
 
 <br>
 
+- **Languages en cours d'étude**:
+	<p>
+	  <a href="https://skillicons.dev">	
+		<img height="32"src="https://skillicons.dev/icons?i=c,cpp,cs,css,javascript,php&theme=dark" />
+	  </a>
+	</p>
+
+<br>
 
 - **Tools**:
 	<p>
 	  <a href="https://skillicons.dev">	
-		<img height="32"src="https://skillicons.dev/icons?i=vim,git,vscode&theme=light" />
+		<img height="32"src="https://skillicons.dev/icons?i=vim,git,vscode,eclipse,visualstudio,atom,github,wordpress,discord&theme=dark" />
 	  </a>
 	</p>	
+ - **OS sans mac/windows**:
+	<p>
+	  <a href="https://skillicons.dev">	
+		<img height="32"src="https://skillicons.dev/icons?i=linux,raspberrypi&theme=dark" />
+	  </a>
+	</p>	
+ 
  
 ## Réseaux sociaux
 
