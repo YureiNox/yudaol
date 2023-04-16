@@ -52,22 +52,28 @@ train-station est un outil que j'ai creer afin d'afficher les ligne de train dep
 	  <a href="https://skillicons.dev">	
 		<img height="32"src="https://skillicons.dev/icons?i=linux,raspberrypi&theme=dark" />
 	  </a>
-	</p>	
-	<p>
+	</p>
+	<!-- Windows 10 -->
+	<div style="display: inline-block; border-radius: 5px; background-color: #333; padding: 4px; margin-left: 8px;">
 	  <a href="https://icons8.com">
 	    <img height="32" src="https://img.icons8.com/color/48/000000/windows-10.png" />
 	  </a>
-	</p>
-	<p>
+	</div>
+
+	<!-- Windows 11 -->
+	<div style="display: inline-block; border-radius: 5px; background-color: #333; padding: 4px; margin-left: 8px;">
 	  <a href="https://icons8.com">
 	    <img height="32" src="https://img.icons8.com/color/48/000000/windows-11.png" />
 	  </a>
-	</p>
-	<p>
+	</div>
+
+	<!-- macOS -->
+	<div style="display: inline-block; border-radius: 5px; background-color: #333; padding: 4px; margin-left: 8px;">
 	  <a href="https://icons8.com">
 	    <img height="32" src="https://img.icons8.com/ios-filled/50/000000/mac-os--v1.png" />
 	  </a>
-	</p>
+	</div>
+
  
  
 ## Réseaux sociaux
