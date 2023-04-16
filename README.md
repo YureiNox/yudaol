@@ -47,12 +47,27 @@ train-station est un outil que j'ai creer afin d'afficher les ligne de train dep
 		<img height="32"src="https://skillicons.dev/icons?i=vim,wordpress,discord,git,github,vscode,visualstudio,eclipse,atom&theme=dark" />
 	  </a>
 	</p>	
- - **OS sans mac/windows**:
+ - **Operating System / OS**:
 	<p>
 	  <a href="https://skillicons.dev">	
 		<img height="32"src="https://skillicons.dev/icons?i=linux,raspberrypi&theme=dark" />
 	  </a>
 	</p>	
+	<p>
+	  <a href="https://icons8.com">
+	    <img height="32" src="https://img.icons8.com/color/48/000000/windows-10.png" />
+	  </a>
+	</p>
+	<p>
+	  <a href="https://icons8.com">
+	    <img height="32" src="https://img.icons8.com/color/48/000000/windows-11.png" />
+	  </a>
+	</p>
+	<p>
+	  <a href="https://icons8.com">
+	    <img height="32" src="https://img.icons8.com/ios-filled/50/000000/mac-os--v1.png" />
+	  </a>
+	</p>
  
  
 ## Réseaux sociaux
