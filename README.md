@@ -60,8 +60,8 @@ train-station est un outil que j'ai creer afin d'afficher les ligne de train dep
  
 ## Réseaux sociaux
 
-* [Instagram](https://www.instagram.com/whiterabbit.gitgithub)
-* [YouTube a venir](https://www.youtube.com/channel/UCxjqh1xH-Wn7ZDMzXoWdumw)
-* [Twitter](https://twitter.com/whiterabbit904)
+[![Instagram](https://i.imgur.com/sB0C5Fb.png)](https://www.instagram.com/votre_compte/)
+[![YouTube](https://i.imgur.com/gpvl1wG.png)](https://www.youtube.com/channel/votre_compte) (à venir)
+[![Twitter](https://i.imgur.com/sdGkmhB.png)](https://twitter.com/votre_compte/)
 
 si vous voulez modifier et republier les project ici présent merci d'en demander le consentemant sur instagrame (pareil pour tout colaboration ou toute idée de votre part pour une maj prochaine)
