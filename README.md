@@ -6,7 +6,15 @@ Je suis un étudiant passionné de développement de logiciels et de l'utilisati
 
 ## adbtool
 
-adbtool est un outil qui facilite l'utilisation de la commande `adb` (Android Debug Bridge) pour les développeurs Android. Avec adbtool, vous pouvez facilement exécuter des commandes adb courantes telles que l'installation d'applications, la capture d'écran, l'enregistrement d'écran, etc.
+adbtool est un outil qui facilite l'utilisation de la commande `adb` (Android Debug Bridge) pour les développeurs Android. Avec adbtool, vous pouvez facilement exécuter des commandes adb peu courante (redémarrer votre android dans le recovery et le bootloader) afficher votre camera en ascii et pleine d'autre petit truc cool (en bref un outil pour un peu tout faire).
+
+## train-station
+
+train-station est un outil que j'ai creer afin d'afficher les ligne de train depuis la gare demander par l'utilisateur (attention ce fichier ne marche que avec les train CFF)
+
+
+
+
 
 ## Langages
 
@@ -19,3 +27,4 @@ adbtool est un outil qui facilite l'utilisation de la commande `adb` (Android De
 * [YouTube a venir](https://www.youtube.com/channel/UCxjqh1xH-Wn7ZDMzXoWdumw)
 * [Twitter](https://twitter.com/whiterabbit904)
 
+si vous voulez modifier et republier les project ici présent merci d'en demander le consentemant sur instagrame (pareil pour tout colaboration ou toute idée de votre part pour une maj prochaine)
