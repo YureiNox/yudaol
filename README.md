@@ -60,9 +60,10 @@ train-station est un outil que j'ai creer afin d'afficher les ligne de train dep
  
 ## Réseaux sociaux
 
-[![Instagram](https://i.imgur.com/5R6JfMT.png)](https://www.instagram.com/votre_compte/)
-[![YouTube](https://i.imgur.com/vfPBaLv.png)](https://www.youtube.com/channel/votre_compte) (à venir)
-[![Twitter](https://i.imgur.com/whFksfH.png)](https://twitter.com/votre_compte/)
+[![Instagram](https://i.imgur.com/i1tSnYB.png)](https://www.instagram.com/votre_compte/)
+[![YouTube](https://i.imgur.com/H1A0fLw.png)](https://www.youtube.com/channel/votre_compte) (à venir)
+[![Twitter](https://i.imgur.com/R79vN3e.png)](https://twitter.com/votre_compte/)
+
 
 
 si vous voulez modifier et republier les project ici présent merci d'en demander le consentemant sur instagrame (pareil pour tout colaboration ou toute idée de votre part pour une maj prochaine)
