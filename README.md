@@ -1,5 +1,6 @@
 <!--- Templates : https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates--->
 ## Français / French
+## Anglais / English
 
 <h1 align="center"><b>Salut ! Bienvenue sur mon profil Github ! Yudaol</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 ### Étudiant - Suisse
@@ -73,8 +74,8 @@ attention youtube à venir pour le futur
 si vous voulez modifier et republier les project ici présent merci d'en demander le consentemant sur instagrame (pareil pour tout colaboration ou toute idée de votre part pour une maj prochaine)
 
 ## _____________________________________________________________________________________________________
-
-## anglais / English
+##  
+## Anglais / English
 
 <!--- Templates: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates--->
 
