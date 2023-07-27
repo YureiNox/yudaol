@@ -1,7 +1,7 @@
 <!--- Templates : https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates--->
+##Français / French
 
-<h1 align="center"><b>Hi There, Welcome to my Github profile! Whiterabbit-git</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
+<h1 align="center"><b>Salut ! Bienvenue sur mon profil Github ! Yudaol</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 ### Étudiant - Suisse
 
 Je suis un étudiant passionné de développement de logiciels et de l'utilisation de la technologie pour résoudre des problèmes. J'aime particulièrement travailler sur des projets open-source et contribuer à la communauté de développeurs.
@@ -71,3 +71,41 @@ attention youtube à venir pour le futur
 ## Info (©)
 
 si vous voulez modifier et republier les project ici présent merci d'en demander le consentemant sur instagrame (pareil pour tout colaboration ou toute idée de votre part pour une maj prochaine)
+
+##anglais / English
+
+## Languages
+- **Graphic**:
+
+![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs?username=whiterabbit-git&langs_count=3&show_icons=true&locale=fr&layout=compact&theme=dark)
+
+- **Acquired Languages**:
+	<p>
+	  <a href="https://skillicons.dev">	
+		<img height="32" src="https://skillicons.dev/icons?i=html,python&theme=dark" />
+	  </a>
+	</p>
+
+<br>
+
+- **Languages Under Study**:
+	<p>
+	  <a href="https://skillicons.dev">	
+		<img height="32" src="https://skillicons.dev/icons?i=c,cpp,cs,css,javascript,php,java&theme=dark" />
+	  </a>
+	</p>
+
+<br>
+
+- **Tools**:
+	<p>
+	  <a href="https://skillicons.dev">	
+		<img height="32" src="https://skillicons.dev/icons?i=vim,wordpress,discord,git,github,vscode,visualstudio,eclipse,atom&theme=dark" />
+	  </a>
+	</p>	
+ - **Operating System / OS (besides windows/mac also used)**:	
+	<p>
+	  <a href="https://skillicons.dev">	
+		<img height="32" src="https://skillicons.dev/icons?i=linux,raspberrypi&theme=dark" />
+	  </a>
+	</p>
