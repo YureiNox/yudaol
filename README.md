@@ -21,7 +21,7 @@ train-station est un outil que j'ai creer afin d'afficher les ligne de train dep
 ## Langages
 - **Graphique**:
 
-![Langages de programmation](https://github-readme-stats.vercel.app/api/top-langs?username=whiterabbit-git&langs_count=3&show_icons=true&locale=fr&layout=compact&theme=dark)
+![Langages de programmation](https://github-readme-stats.vercel.app/api/top-langs?username=yudaol&langs_count=3&show_icons=true&locale=fr&layout=compact&theme=dark)
 
 
 
@@ -94,7 +94,7 @@ train-station is a tool I created to display train lines from the station reques
 ## Languages
 - **Graphic**:
 
-![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs?username=whiterabbit-git&langs_count=3&show_icons=true&locale=fr&layout=compact&theme=dark)
+![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yudaol&langs_count=3&show_icons=true&locale=fr&layout=compact&theme=dark)
 
 - **Acquired Languages**:
 	<p>
