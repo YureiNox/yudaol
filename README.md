@@ -6,6 +6,10 @@
 
 Je suis un étudiant passionné de développement de logiciels et de l'utilisation de la technologie pour résoudre des problèmes. J'aime particulièrement travailler sur des projets open-source et contribuer à la communauté de développeurs.
 
+## flipper zero app pour installer des fichier c sur son flipper zero (app_installer_for_flipperzero)
+ce programme python creer pour facilité la tache de gens pour installer des app sur le flipper zero ATTENTION ce programme n'est ni en partenariat ni officiel de l'entreprise du flipper zero
+
+
 ## adbtool
 
 adbtool est un outil qui facilite l'utilisation de la commande `adb` (Android Debug Bridge) pour les développeurs Android. Avec adbtool, vous pouvez facilement exécuter des commandes adb peu courante (redémarrer votre android dans le recovery et le bootloader) afficher votre camera en ascii et pleine d'autre petit truc cool (en bref un outil pour un peu tout faire).
@@ -13,7 +17,6 @@ adbtool est un outil qui facilite l'utilisation de la commande `adb` (Android De
 ## train-station
 
 train-station est un outil que j'ai creer afin d'afficher les ligne de train depuis la gare demander par l'utilisateur (attention ce fichier ne marche que avec les train CFF pour l'instant)
-
 
 
 
@@ -82,6 +85,10 @@ si vous voulez modifier et republier les project ici présent merci d'en demande
 ### Student - Switzerland
 
 I am a passionate student in software development and using technology to solve problems. I particularly enjoy working on open-source projects and contributing to the developer community.
+
+
+## Flipper Zero App for Installing C Files on Your Flipper Zero (app_installer_for_flipperzero)
+This Python program is created to make the task of installing apps on the Flipper Zero easier. PLEASE NOTE that this program is neither in partnership with nor official from the Flipper Zero company
 
 ## adbtool
 
