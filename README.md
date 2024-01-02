@@ -1,150 +1,22 @@
-<!--- Templates : https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates--->
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yudaol==============================================================================================================================Passionate about computer science, robotics, electronics, and cybersecurity---------------------------------------------------------------------------I started programming with HTML, creating several small websites. Later, I transitioned to Python, Bash, C, and other languages, exploring Linux and its various commands* 🌍  I'm based in Switzerland* ✉️  You can contact me at [yudaol.zero@gmail.com](mailto:yudaol.zero@gmail.com)* 🚀  I'm currently working on [App\_installer\_for\_flipperzero](http://github.com/Yudaol/app_installer_for_flipperzero)* 🧠  I'm learning C, C# and C++* 🤝  I'm open to collaborating on all of my project
 
-## Français / French
-
-<h1 align="center"><b>Salut ! Bienvenue sur mon profil Github ! Yudaol</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-### Étudiant - Suisse
-
-Je suis un étudiant passionné de développement de logiciels et de l'utilisation de la technologie pour résoudre des problèmes. J'aime particulièrement travailler sur des projets open-source et contribuer à la communauté de développeurs.
-
-## flipper zero app pour installer des fichier c sur son flipper zero (app_installer_for_flipperzero)
-ce programme python creer pour facilité la tache de gens pour installer des app sur le flipper zero ATTENTION ce programme n'est ni en partenariat ni officiel de l'entreprise du flipper zero
+### Skills
 
 
-## adbtool
+<p align="left">
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a><a href="https://www.php.net/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/php-colored.svg" width="36" height="36" alt="PHP" /></a><a href="https://docs.microsoft.com/en-us/cpp/?view=msvc-170" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/c-colored.svg" width="36" height="36" alt="C" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a><a href="https://www.oracle.com/java/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/java-colored.svg" width="36" height="36" alt="Java" /></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a><a href="https://www.oracle.com/uk/index.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/oracle-colored.svg" width="36" height="36" alt="Oracle" /></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" /></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" /></a><a href="https://store.arduino.cc/?gclid=Cj0KCQjw2eilBhCCARIsAG0Pf8uueBifykWcsSS4LPESeGQfxGVKJYnzV7bz471XfknQJy_1VINVWM8aAkLtEALw_wcB" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/arduino-colored.svg" width="36" height="36" alt="Arduino" /></a><a href="https://aws.amazon.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/aws-colored.svg" width="36" height="36" alt="Amazon Web Services" /></a><a href="https://www.blender.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/blender-colored.svg" width="36" height="36" alt="Blender" /></a><a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" /></a><a href="https://www.linux.org" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/linux-colored.svg" width="36" height="36" alt="Linux" /></a><a href="https://apple.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/macos-colored.svg" width="36" height="36" alt="MacOS" /></a><a href="https://pytorch.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/pytorch-colored.svg" width="36" height="36" alt="PyTorch" /></a><a href="https://www.raspberrypi.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/raspberrypi-colored.svg" width="36" height="36" alt="Raspberry Pi" /></a><a href="https://www.adobe.com/uk/products/photoshop.html" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/photoshop-colored.svg" width="36" height="36" alt="Photoshop" /></a><a href="https://ethereum.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/ethereum-colored.svg" width="36" height="36" alt="Ethereum" /></a><a href="https://cloud.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/googlecloud-colored.svg" width="36" height="36" alt="Google Cloud" /></a></p>
+### Socials<p align="left"> <a href="https://www.github.com/Yudaol" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a> <a href="http://www.instagram.com/YudaolZero" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /> </picture> </a> <a href="https://www.x.com/YudaolZero" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /> </picture> </a> <a href="https://www.youtube.com/@yudaol" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="undefined" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /> </picture> </a></p>
 
-adbtool est un outil qui facilite l'utilisation de la commande `adb` (Android Debug Bridge) pour les développeurs Android. Avec adbtool, vous pouvez facilement exécuter des commandes adb peu courante (redémarrer votre android dans le recovery et le bootloader) afficher votre camera en ascii et pleine d'autre petit truc cool (en bref un outil pour un peu tout faire).
+### Badges
 
-## train-station
+<b>My GitHub Stats</b>
 
-train-station est un outil que j'ai creer afin d'afficher les ligne de train depuis la gare demander par l'utilisateur (attention ce fichier ne marche que avec les train CFF pour l'instant)
+<a href="http://www.github.com/Yudaol"><img src="https://github-readme-stats.vercel.app/api?username=Yudaol&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="Yudaol's GitHub stats" /></a>
 
+<a href="http://www.github.com/Yudaol"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Yudaol&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
 
+<a href="https://github.com/Yudaol" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yudaol&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+<b>Top Repositories</b>
 
-## Langages
-- **Graphique**:
-
-![Langages de programmation](https://github-readme-stats.vercel.app/api/top-langs?username=yudaol&langs_count=3&show_icons=true&locale=fr&layout=compact&theme=dark)
-
-
-
-- **Languages acquis**:
-	<p>
-	  <a href="https://skillicons.dev">	
-		<img height="32"src="https://skillicons.dev/icons?i=html,python&theme=dark" />
-	  </a>
-	</p>
-
-<br>
-
-- **Languages en cours d'étude**:
-	<p>
-	  <a href="https://skillicons.dev">	
-		<img height="32"src="https://skillicons.dev/icons?i=c,cpp,cs,css,javascript,php,java&theme=dark" />
-	  </a>
-	</p>
-
-<br>
-
-- **Tools**:
-	<p>
-	  <a href="https://skillicons.dev">	
-		<img height="32"src="https://skillicons.dev/icons?i=vim,wordpress,discord,git,github,vscode,visualstudio,eclipse,atom&theme=dark" />
-	  </a>
-	</p>	
- - **Operating System / OS (sans windows/mac utilisé aussi)**:	
-	<p>
-	  <a href="https://skillicons.dev">	
-		<img height="32"src="https://skillicons.dev/icons?i=linux,raspberrypi&theme=dark" />
-	  </a>
-	</p>
-
-	
-
- 
- 
-## Réseaux sociaux
-
-[![Instagram](https://camo.githubusercontent.com/32de3d6ae0d152d74e6672352d26fa61f265b2bddbca55655b4c413a97c17385/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d496e7374616772616d26636f6c6f723d453434303546266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://www.instagram.com/YudaolZero)
-[![YouTube](https://camo.githubusercontent.com/9bbd418eba4e5ca72da9663efab9d832ebec5e1b1141c6edad4fdb618e262958/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d596f755475626526636f6c6f723d464630303030266c6f676f3d596f7554756265266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://www.youtube.com/channel/votre_compte)
-[![Twitter](https://camo.githubusercontent.com/0bd066115a3d5d3b06c206ac73e483bc237e6ff7c61f9ba3262e683581de9718/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5477697474657226636f6c6f723d314441314632266c6f676f3d54776974746572266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://twitter.com/YudaolZero)
-
-attention youtube à venir pour le futur
-
-## Info (©)
-
-si vous voulez modifier et republier les project ici présent merci d'en demander le consentemant sur instagrame (pareil pour tout colaboration ou toute idée de votre part pour une maj prochaine)
-
-## _____________________________________________________________________________________________________
-##  
-## Anglais / English
-
-<!--- Templates: https://github.com/durgeshsamariya/awesome-github-profile-readme-templates/tree/master/templates--->
-
-<h1 align="center"><b>Hi there! Welcome to my Github profile! Yudaol</b><img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-### Student - Switzerland
-
-I am a passionate student in software development and using technology to solve problems. I particularly enjoy working on open-source projects and contributing to the developer community.
-
-
-## Flipper Zero App for Installing C Files on Your Flipper Zero (app_installer_for_flipperzero)
-This Python program is created to make the task of installing apps on the Flipper Zero easier. PLEASE NOTE that this program is neither in partnership with nor official from the Flipper Zero company
-
-## adbtool
-
-adbtool is a tool that simplifies the use of the `adb` (Android Debug Bridge) command for Android developers. With adbtool, you can easily run uncommon adb commands (such as rebooting your Android device into recovery and bootloader), view your camera in ASCII, and perform other cool little tricks (in short, it's a tool to do a bit of everything).
-
-## train-station
-
-train-station is a tool I created to display train lines from the station requested by the user (please note that this file currently works only with CFF trains).
-
-## Languages
-- **Graphic**:
-
-![Programming Languages](https://github-readme-stats.vercel.app/api/top-langs?username=yudaol&langs_count=3&show_icons=true&locale=fr&layout=compact&theme=dark)
-
-- **Acquired Languages**:
-	<p>
-	  <a href="https://skillicons.dev">	
-		<img height="32" src="https://skillicons.dev/icons?i=html,python&theme=dark" />
-	  </a>
-	</p>
-
-<br>
-
-- **Languages Under Study**:
-	<p>
-	  <a href="https://skillicons.dev">	
-		<img height="32" src="https://skillicons.dev/icons?i=c,cpp,cs,css,javascript,php,java&theme=dark" />
-	  </a>
-	</p>
-
-<br>
-
-- **Tools**:
-	<p>
-	  <a href="https://skillicons.dev">	
-		<img height="32" src="https://skillicons.dev/icons?i=vim,wordpress,discord,git,github,vscode,visualstudio,eclipse,atom&theme=dark" />
-	  </a>
-	</p>	
- - **Operating System / OS (besides windows/mac also used)**:	
-	<p>
-	  <a href="https://skillicons.dev">	
-		<img height="32" src="https://skillicons.dev/icons?i=linux,raspberrypi&theme=dark" />
-	  </a>
-	</p>
-
- 
- 
-## Social Networks
-
-[![Instagram](https://camo.githubusercontent.com/32de3d6ae0d152d74e6672352d26fa61f265b2bddbca55655b4c413a97c17385/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d496e7374616772616d26636f6c6f723d453434303546266c6f676f3d496e7374616772616d266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://www.instagram.com/YudaolZero)
-[![YouTube](https://camo.githubusercontent.com/9bbd418eba4e5ca72da9663efab9d832ebec5e1b1141c6edad4fdb618e262958/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d596f755475626526636f6c6f723d464630303030266c6f676f3d596f7554756265266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://www.youtube.com/channel/votre_compte)
-[![Twitter](https://camo.githubusercontent.com/0bd066115a3d5d3b06c206ac73e483bc237e6ff7c61f9ba3262e683581de9718/68747470733a2f2f696d672e736869656c64732e696f2f7374617469632f76313f7374796c653d666f722d7468652d6261646765266d6573736167653d5477697474657226636f6c6f723d314441314632266c6f676f3d54776974746572266c6f676f436f6c6f723d464646464646266c6162656c3d)](https://twitter.com/YudaolZero)
-
-Attention, YouTube link coming soon for the future.
-
-## Info (©)
-
-If you want to modify and republish the projects presented here, please ask for consent on Instagram (same goes for any collaboration or ideas you may have for future updates).
+<div width="100%" align="center"><a href="https://github.com/Yudaol/Adbtool" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yudaol&repo=Adbtool&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/Yudaol/App_installer_for_flipperzero" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=Yudaol&repo=App_installer_for_flipperzero&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
