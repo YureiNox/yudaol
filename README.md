@@ -1,4 +1,10 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yudaol==============================================================================================================================Passionate about computer science, robotics, electronics, and cybersecurity---------------------------------------------------------------------------I started programming with HTML, creating several small websites. Later, I transitioned to Python, Bash, C, and other languages, exploring Linux and its various commands* 🌍  I'm based in Switzerland* ✉️  You can contact me at [yudaol.zero@gmail.com](mailto:yudaol.zero@gmail.com)* 🚀  I'm currently working on [App\_installer\_for\_flipperzero](http://github.com/Yudaol/app_installer_for_flipperzero)* 🧠  I'm learning C, C# and C++* 🤝  I'm open to collaborating on all of my project
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yudaol==============================================================================================================================
+Passionate about computer science, robotics, electronics, and cybersecurity---------------------------------------------------------------------------
+I started programming with HTML, creating several small websites. Later, I transitioned to Python, Bash, C, and other languages, exploring Linux and its various commands
+* 🌍  I'm based in Switzerland* 
+* ✉️  You can contact me at [yudaol.zero@gmail.com](mailto:yudaol.zero@gmail.com)* 
+* 🚀  I'm currently working on [App\_installer\_for\_flipperzero](http://github.com/Yudaol/app_installer_for_flipperzero)* 
+* 🧠  I'm learning C, C# and C++* 🤝  I'm open to collaborating on all of my project* 
 
 ### Skills
 
