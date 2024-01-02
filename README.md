@@ -1,54 +1,5 @@
 # Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Yudaol
 
-<button onclick="translateToEnglish()">Traduire en anglais</button>
-<button onclick="translateToFrench()">Traduire en français</button>
-
-<script>
-function translateToEnglish() {
-  const textToTranslate = prompt("Entrez le texte à traduire en anglais:");
-
-  fetch(`https://api.cognitive.microsofttranslator.com/translate?api-version=3.0&to=en`, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'Ocp-Apim-Subscription-Region': 'northeurope',
-    },
-    body: JSON.stringify([{ 'text': textToTranslate }]),
-  })
-  .then(response => response.json())
-  .then(data => {
-    const translatedText = data[0].translations[0].text;
-    alert(`Traduction en anglais:\n${translatedText}`);
-  })
-  .catch(error => {
-    console.error('Erreur lors de la traduction:', error);
-    alert('Erreur lors de la traduction. Veuillez réessayer.');
-  });
-}
-
-function translateToFrench() {
-  const textToTranslate = prompt("Entrez le texte à traduire en français:");
-
-  fetch(`https://api.cognitive.microsofttranslator.com/translate?api-version=3.0&to=fr`, {
-    method: 'POST',
-    headers: {
-      'Content-Type': 'application/json',
-      'Ocp-Apim-Subscription-Region': 'northeurope',
-    },
-    body: JSON.stringify([{ 'text': textToTranslate }]),
-  })
-  .then(response => response.json())
-  .then(data => {
-    const translatedText = data[0].translations[0].text;
-    alert(`Traduction en français:\n${translatedText}`);
-  })
-  .catch(error => {
-    console.error('Erreur lors de la traduction:', error);
-    alert('Erreur lors de la traduction. Veuillez réessayer.');
-  });
-}
-</script>
-
 Passionate about computer science, robotics, electronics, and cybersecurity
 I started programming with HTML, creating several small websites. Later, I transitioned to Python, Bash, C, and other languages, exploring Linux and its various commands
 * 🌍  I'm based in Switzerland
