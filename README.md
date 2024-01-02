@@ -3,7 +3,7 @@
 
 <h1 align="center">Hi 👋, I'm Yudaol</h1>
 <h3 align="center">Passionate about computer science, robotics, electronics, and cybersecurity</h3>
-<img align="right" alt="Codage" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Codage" width="400" src="https://i.pinimg.com/originals/2d/ea/1f/2dea1fbd8b2b4f20cd4c0ab317e13fc8.gif">
 
 - 🔭 I’m currently working on [App_installer_for_flipperzero](https://github.com/Yudaol/app_installer_for_flipperzero)
 
