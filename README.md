@@ -1,5 +1,5 @@
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=070CB6&random=false&width=435&lines=Hi+welcome+in+Yudaol+github)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&pause=1000&color=FFFFFF&random=false&width=435&lines=Hi+welcome+in+Yudaol+github)](https://git.io/typing-svg)
 <h3 align="center">Passionate about computer science, robotics, electronics, and cybersecurity</h3>
 <img align="right" alt="Codage" width="400" src="https://i.pinimg.com/originals/2d/ea/1f/2dea1fbd8b2b4f20cd4c0ab317e13fc8.gif">
 
