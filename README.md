@@ -31,4 +31,5 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yudaol&show_icons=true&locale=en" alt="yudaol" /></p>
 
-<img src="https://lanyard.cnrad.dev/api/921518780876738602?theme=light&bg=F4BFC7&borderRadius=15px&animated=true" width="30%" align="center">
+[![Discord Presence](https://lanyard.cnrad.dev/api/735727091114311742?theme=dark&animated=true&idleMessage=Hacking%20your%20grandmother&showDisplayName=true)](https://discord.com/users/735727091114311742)
+
