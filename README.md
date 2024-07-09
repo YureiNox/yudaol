@@ -31,3 +31,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yudaol&show_icons=true&locale=en" alt="yudaol" /></p>
 
+<img src="https://lanyard.cnrad.dev/api/921518780876738602?theme=light&bg=F4BFC7&borderRadius=15px&animated=true" width="30%" align="center">
